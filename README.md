@@ -10,10 +10,9 @@
   Soy un [Tu Profesión, ej: Desarrollador Web, Estudiante] apasionado por [Tu Interés, ej: la tecnología, el desarrollo frontend, etc.].
 </p>
 
-- 🔭 Actualmente estoy trabajando en... [Tu Proyecto Actual]
-- 🌱 Actualmente estoy aprendiendo... [Tecnología que estés aprendiendo]
-- 👯 Estoy buscando colaborar en... [Tipo de proyectos]
-- 📫 Cómo contactarme: [tu.email@ejemplo.com]
+- 🔭 Actualmente estoy trabajando en... [Pagina Web]
+- 🌱 Actualmente estoy aprendiendo... [Node.js, HTML, Javascript, Css]
+- 📫 Cómo contactarme: [Cor]
 - ⚡ Dato curioso: [Un dato curioso sobre ti]
 
 ---

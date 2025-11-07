@@ -3,19 +3,19 @@
 </p>
 
 <h1 align="center">
-  👋 ¡Hola! Soy [Leo]
+  👋 ¡Hola! Soy Leo
 </h1>
 
 <p align="left">
-  Soy un [Tu Profesión, ej: Desarrollador Web, Estudiante] apasionado por [Tu Interés, ej: la tecnología, el desarrollo frontend, etc.].
+  Soy un estudiante de la carreara de TIC. Apasionado por el area de desarrollo web.
 </p>
 
-- 🔭 Actualmente estoy trabajando en... [Pagina Web]
-- 🌱 Actualmente estoy aprendiendo... [Node.js, HTML, Javascript, Css]
-- 📫 Cómo contactarme: [Cor]
-- ⚡ Dato curioso: [Un dato curioso sobre ti]
+- 🔭 Actualmente estoy trabajando en desarrolar una pagina web de negocio.
+- 🌱 Actualmente estoy aprendiendo sobre Node.js, Javascript, Html, Css.
+- 📫 Cómo contactarme: Git Hub  -  Correo-Institucional
+- ⚡ Dato curioso: Me objetivo es ser un buen programador del lado BackEnd
 
----
+
 
 <h2 align="left">🛠️ Tecnologías y Herramientas</h2>
 <p align="left">

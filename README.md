@@ -28,9 +28,9 @@
 
 <h2 align="left">📊 Mis Estadísticas de GitHub</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=radical" alt="Mis Estadísticas de GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=armin973600363-dev&show_icons=true&theme=radical" alt="Mis Estadísticas de GitHub" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&theme=tokyonight" alt="Mis Lenguajes Más Usados" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin973600363-dev&layout=compact&theme=tokyonight" alt="Mis Lenguajes Más Usados" />
 </p>
 
 ---

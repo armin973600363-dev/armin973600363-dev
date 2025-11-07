@@ -1,16 +1,50 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1MDc2M2MwY2U4N2JkZjBjYjQ5ZWE3YmYxYjU2YjZlY2JmZjgxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500">
+</p>
 
-<!--
-**armin973600363-dev/armin973600363-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  👋 ¡Hola! Soy [Leo]
+</h1>
 
-Here are some ideas to get you started:
+<p align="left">
+  Soy un [Tu Profesión, ej: Desarrollador Web, Estudiante] apasionado por [Tu Interés, ej: la tecnología, el desarrollo frontend, etc.].
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en... [Tu Proyecto Actual]
+- 🌱 Actualmente estoy aprendiendo... [Tecnología que estés aprendiendo]
+- 👯 Estoy buscando colaborar en... [Tipo de proyectos]
+- 📫 Cómo contactarme: [tu.email@ejemplo.com]
+- ⚡ Dato curioso: [Un dato curioso sobre ti]
+
+---
+
+<h2 align="left">🛠️ Tecnologías y Herramientas</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+<h2 align="left">📊 Mis Estadísticas de GitHub</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=radical" alt="Mis Estadísticas de GitHub" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&theme=tokyonight" alt="Mis Lenguajes Más Usados" />
+</p>
+
+---
+
+<h2 align="left">📫 Conéctate conmigo</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/tu-usuario" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/tu-usuario" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://tu-portfolio.com" target="blank">
+    <img src="https://img.shields.io/badge/Mi%20Portfolio-black?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
